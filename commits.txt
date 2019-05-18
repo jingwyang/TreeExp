@@ -1,0 +1,89 @@
+a72a820 Perform BiocCheck
+4641b2f add biocViews terms and set valid package Version
+bdf2479 add biocViews terms and set valid package Version
+9190da3 Version: 0.0.0 to Version: 0.0.1
+cafe871 TreeExp2.0
+302145d TreeExp2.0
+e19267f TreeExp2.0
+004e51c TreeExp2.0
+a7066d8 TreeExp2.0
+f967f60 TreeExp2.0
+2f90a26 TreeExp2.0
+4cf325a TreeExp2.0
+98a1994 TreeExp2.0
+57a5d3f TreeExp2.0
+b0aa069 TreeExp2.0
+6508d42 TreeExp2.0
+302fce5 TreeExp2.0
+0b698e6 TreeExp2.0
+f335f3f TreeExp2.0
+6588540 TreeExp2.0
+037ecd7 TreeExp2.0
+3ebab4e TreeExp2.0
+3348716 TreeExp2.0
+b9567d2 TreeExp2.0
+2645a7a Add files via upload
+1d1836d Documents refresh
+d61f722 Add user's guides
+08a5d4d html removed
+27bb763 Set theme jekyll-theme-modernist
+0324c77 add vignettes
+72fbe3c bugfix 0322-2
+9339ab3 Bugfix 0322
+1179344 bug fix 0317
+6765d49 bug fix 0316
+d37e445 bugfix 0306
+f0e6aed bugfix 0224
+70adc4b Bugfix 0222-1
+73f0007 Bugfix 0222
+d08ae80 bug fix 0220
+76f6e24 Bugfix 0215
+f134f96 version 2.0 commit
+27f51de BugFix 0118_2
+a428333 Bug fix 0118
+972ed4e Mod 0109
+87ac8da Bug fix 1228
+99c9f3d version 1.3 commit
+cdb76c8 Bug Fix 1123
+fe722b0 Bug fix 1114
+96d56ae Bug fix 1107
+0019349 bug fix 1029
+757f07f bug fix 1025
+80aefde minor modification 1022
+8b258e5 Additional data commit
+17fa829 Merge remote-tracking branch 'origin/master'
+dba60b2 function added
+7cce90c Remove a mistakenly uploaded file
+499292f Version 1.2 commit
+a01b6e1 Manual revision 0911
+e1d60d0 Bug Fix 0729
+72d696a Bug fix 0725 -2
+36e6af7 Bug fix 0725
+78e6992 manuals udaptes
+12b7c55 Bug fix and roxygen edited
+7d078fa Bug fix 0724
+c640f44 Distance estimation function roxygen update
+e1fb6e2 Distance estimation function update
+d313a2d roxygen revise
+c2a3be4 manual revise
+17530a1 function name change
+ef59b7f theta function modification 0630
+8ce4bcf Bug fix 06302
+44dbc9b Bug fix 0630
+b3ca102 theta function modification
+3a3c172 Modification 0629
+3b75cfb add theta estimation
+e4904b3 bug fix 0517
+98a1293 Update 1.1 bug fixed1
+234538e Update 1.1 bug fixed
+4c54e8d Update 1.1
+b4992df DESCRIPTION Renew
+37ba484 README Renew
+58a16a7 add a html
+6f6ae34 Bug fixed and README renew
+734fcd1 remove README
+c84b625 Merge branch 'master' of https://github.com/HangRuan1912/phyExp
+1754bc2 first commit
+4f6ad54 first commit
+659f819 Create README.md
+4efb007 Initial commit

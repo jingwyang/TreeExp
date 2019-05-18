@@ -1,0 +1,31 @@
+Package: TreeExp
+Type: Package
+Title: the R package for analyzing expression evolution based on RNA-seq data
+Version: 2.0.0
+Encoding: UTF-8
+Date: 2019-03-12
+Authors@R: c(
+    person("Jingw", "Yang", email = "jingw.yang.fudan@gmail.com", role = c("cre","aut")),
+    person("Hang","Ruan", email = "hang.ruan@hotmail.com", role = "ctb"))
+Depends: R (>= 3.6)
+License: GPL (>=3)
+Description: TreeExp is an R package developed to provides useful phylogenetic tools applicable 
+    to RNA-seq data. The package can be applied to comparative expression evolution analysis, which 
+    includes but not liminited to: (i) pairwise expression distance estimation; (ii) relative rate 
+    test for transcriptome evolution; (iii) the strength of expression conservation estimation; 
+    (iv) ancestral transcriptome inference. Statistical methods implemented in the package was 
+    based on Ornstein-Uhlenbeck (OU) model of transcriptome evolution which claims that expression 
+    changes are constrained by stabilizing selection.
+biocViews: Software, Transcriptomics
+LazyData: TRUE
+RoxygenNote: 6.1.1
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+Imports: 
+    ape,
+    stats,
+    phytools,
+    utils,
+    parallel,
+    reshape2,
+    methods
