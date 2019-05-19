@@ -1,21 +1,5 @@
-doc
 Meta
-<<<<<<< HEAD
+doc
+inst/doc
 .Rproj.user
-.Rhistory
-TreeExp.Rproj
 ^SQLDataFrame\.Rproj$
-  =======
-  # History files
-  .Rapp.history
-# Session Data files
-# Example code in package build process
-*-Ex.R
-# RStudio files
-.Rproj.user/
-  # produced vignettes
-vignettes/*.html
-vignettes/*.pdf
-# OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
-.httr-oauth
->>>>>>> 659f8198b56ac630a4bf2b580f3b09067e08daf9
