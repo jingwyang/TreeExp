@@ -1,7 +1,7 @@
 Package: TreeExp
 Type: Package
 Title: the R package for analyzing expression evolution based on RNA-seq data
-Version: 0.99.1
+Version: 0.99.2
 Encoding: UTF-8
 Date: 2019-03-12
 Authors@R: c(
