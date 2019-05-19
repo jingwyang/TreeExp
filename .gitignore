@@ -3,15 +3,16 @@ Meta
 <<<<<<< HEAD
 .Rproj.user
 .Rhistory
-=======
-# History files
-.Rapp.history
+^SQLDataFrame\.Rproj$
+  =======
+  # History files
+  .Rapp.history
 # Session Data files
 # Example code in package build process
 *-Ex.R
 # RStudio files
 .Rproj.user/
-# produced vignettes
+  # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
 # OAuth2 token, see https://github.com/hadley/httr/releases/tag/v0.3
