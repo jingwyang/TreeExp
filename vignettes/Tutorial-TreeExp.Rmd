@@ -78,14 +78,27 @@ library('TreeExp')
 ## Citation
 The *TreeExp* package implements statistical methods from the following publications. If you use *TreeExp* in publised research, please cite the appropriate articles
 
-    Ruan,H. et al. (2016) TreeExp1.0: R package for analyzing expression evolution based on rna-seq data. Journal of Experimental Zoology Part B: Molecular and Developmental Evolution, 326, 394–402.
-This paper [@doi:10.1002/jez.b.22707] released the 1.0 version of *TreeExp* that can perform comparative expression evolution analysis based on RNA-seq data, which include optimized input formatting, normalizeation, pairwise expression distance estimation, expression character tree inference, and prliminary expression phylogenetic network analysis.
+```{}
+Ruan,H. et al. (2016) TreeExp1.0: R package for analyzing expression 
+evolution based on rna-seq data. Journal of Experimental Zoology Part B: 
+Molecular and Developmental Evolution, 326, 394–402.
+```
 
-    Yang,J. et al. (2018) Ancestral transcriptome inference based on rna-seq and chip-seq data. Methods.
-This paper[@YANG2018] reported an updated verson of ancestral state inference originally developed by [@gu2004]. With special reference to the transcriptome evolution, the algorithm implemented is feasible, which can deal with RNA-seq and ChIP-seq data.
+* This paper [@doi:10.1002/jez.b.22707] released the 1.0 version of *TreeExp* that can perform comparative expression evolution analysis based on RNA-seq data, which include optimized input formatting, normalizeation, pairwise expression distance estimation, expression character tree inference, and prliminary expression phylogenetic network analysis.
 
-    Paper3
-few
+```{}
+Yang,J. et al. (2018) Ancestral transcriptome inference based on
+rna-seq and chip-seq data. Methods.
+```
+
+* This paper[@YANG2018] reported an updated verson of ancestral state inference originally developed by [@gu2004]. With special reference to the transcriptome evolution, the algorithm implemented is feasible, which can deal with RNA-seq and ChIP-seq data.
+
+```{}
+Gu, Xun, Hang Ruan, and Jingwen Yang. 2019. “Estimating the Strength of 
+Expression Conservation from High Throughput RNA-seq Data.” Bioinformatics, May.
+```
+
+* This paper [@10.1093/bioinformatics/btz405] developed a gamma distribution model to describe how the strength of expression conservation (denoted by W) varies among genes. Given the high throughput RNA-seq datasets from multiple species, we have formulated an empirical Bayesian procedure to estimate W for each gene.
 
 \newpage
 

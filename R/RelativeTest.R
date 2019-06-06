@@ -61,15 +61,15 @@ RelaRate.test <- function( expTable = NULL, x = NULL, y = NULL, outgroup = NULL,
   Da = (Dab + Dac - Dbc)/2
   Db = Dab - Da
   Dc = (Dac+Dbc-Dab)/2
-  if((Dac-Db)<0){
+  if(Dc<0){
     Dc = 0
     }
   rho_ac = cor(sub_expT[,1], sub_expT[,2])
   rho_bc = cor(sub_expT[,2], sub_expT[,3])
   rho_c  = Pi + (1-Pi)* exp(-Dc)
 
-  Var_Dac = ((1 - rho_ac^2)^2) / (geneN-3) / ((rho_ac - Pi)^3)
-  Var_Dbc = ((1 - rho_bc^2)^2) / (geneN-3) / ((rho_bc - Pi)^3)
+  Var_Dac = ((1 - rho_ac^2)^2) / (geneN-3) / ((rho_ac - Pi)^2)
+  Var_Dbc = ((1 - rho_bc^2)^2) / (geneN-3) / ((rho_bc - Pi)^2)
   Var_Dc =  ((1 - rho_c^2)^2)/ (geneN-3) / (rho_c - Pi)^2
 
   Var_deltaD = Var_Dac +Var_Dbc - 2*Var_Dc
