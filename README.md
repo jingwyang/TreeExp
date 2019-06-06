@@ -25,4 +25,4 @@ install.packages('devtools')
 devtools::install_github("jingwyang/TreeExp")
 ```
 
-Please refer to [Tutorial](https://jingwyang.github.io/) for startup guide of *TreeExp*.
+Please refer to [Tutorial](https://jingwyang.github.io/TreeExp-Tutorial) for startup guide of *TreeExp*.
